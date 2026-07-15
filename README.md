@@ -31,10 +31,10 @@ const nurasyl: Engineer = {
 };
 ```
 
-- 🔭 &nbsp;I'm a **Software Engineer at Aspan Energy**, building real-world products used in production.
-- 🎓 &nbsp;**Computer Science** student at **Nazarbayev University**.
-- 🌱 &nbsp;Deep in the **React + FastAPI + PostgreSQL** ecosystem, with a growing focus on **AI-powered features**.
-- ⚡ &nbsp;I enjoy taking projects from **idea → design → deploy**.
+- I'm a **Software Engineer at Aspan Energy**, building real-world products used in production.
+- **Computer Science** student at **Nazarbayev University**.
+- Deep in the **React + FastAPI + PostgreSQL** ecosystem, with a growing focus on **AI-powered features**.
+- I enjoy taking projects from **idea → design → deploy**.
 
 <br/>
 
@@ -120,6 +120,7 @@ const nurasyl: Engineer = {
 
 ### 💬 Let's Connect
 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:nurasyl7892005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://github.com/Nurikexe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
