@@ -94,21 +94,8 @@ const nurasyl: Engineer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurikexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurikexe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="top langs" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurikexe&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="streak" />
-
-</div>
-
-<br/>
-
-<!-- ====================== TROPHIES ====================== -->
-## <img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="28"> Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nurikexe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img height="180em" src="https://github-readme-stats-beta-eight-88.vercel.app/api?username=Nurikexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899" alt="stats" />
+<img height="180em" src="https://github-readme-stats-beta-eight-88.vercel.app/api/top-langs/?username=Nurikexe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="top langs" />
 
 </div>
 
