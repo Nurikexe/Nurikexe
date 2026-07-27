@@ -33,7 +33,6 @@ const nurasyl: Engineer = {
 
 - I'm a **Software Engineer at Aspan Energy**, building real-world products used in production.
 - **Computer Science** student at **Nazarbayev University**.
-- Deep in the **React + FastAPI + PostgreSQL** ecosystem, with a growing focus on **AI-powered features**.
 - I enjoy taking projects from **idea → design → deploy**.
 
 <br/>
