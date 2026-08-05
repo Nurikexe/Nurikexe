@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/Nurikexe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Aspan+Energy;Computer+Science+%40+Nazarbayev+University;Full-Stack+Developer+%7C+React+%2B+FastAPI;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Aspan+Energy;Computer+Science+%40+Nazarbayev+University;Full-Stack+Developer;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- ====================== PROFILE VIEWS + SOCIALS ====================== -->
